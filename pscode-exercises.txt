@@ -49,3 +49,5 @@ d) Write out the results found from steps b and c with a message describing what
 print the average of the 5 numbers
 print the minimum of the 5 numbers
 print the maximum of the 5 numbers
+
+Happy Coding!
